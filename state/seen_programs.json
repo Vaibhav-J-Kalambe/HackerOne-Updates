@@ -1,1 +1,283 @@
-{}
+{
+  "1win_com": {
+    "bounty_avg": "$150-$300",
+    "bounty_min": "$50",
+    "handle": "1win_com",
+    "launch_date": "04 / 2026",
+    "name": "1win",
+    "reports_resolved": "11",
+    "tags": [
+      "Retesting",
+      "Collaboration"
+    ]
+  },
+  "abercrombie_fitch_bbp": {
+    "bounty_avg": "$750",
+    "bounty_min": "$50",
+    "handle": "abercrombie_fitch_bbp",
+    "launch_date": "07 / 2026",
+    "name": "Abercrombie & Fitch Bug Bounty",
+    "reports_resolved": "58",
+    "tags": [
+      "Managed",
+      "Retesting",
+      "Collaboration"
+    ]
+  },
+  "agoda-public": {
+    "bounty_avg": "$576",
+    "bounty_min": "$50",
+    "handle": "agoda-public",
+    "launch_date": "06 / 2026",
+    "name": "Agoda Public",
+    "reports_resolved": "0",
+    "tags": [
+      "Managed",
+      "Retesting",
+      "Collaboration"
+    ]
+  },
+  "anthropic": {
+    "bounty_avg": "$750-$1k",
+    "bounty_min": "$50",
+    "handle": "anthropic",
+    "launch_date": "05 / 2026",
+    "name": "Anthropic",
+    "reports_resolved": "391",
+    "tags": [
+      "Retesting",
+      "Collaboration"
+    ]
+  },
+  "anthropic-cyber-jailbreak": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "anthropic-cyber-jailbreak",
+    "launch_date": "07 / 2026",
+    "name": "Anthropic Cyber Jailbreak",
+    "reports_resolved": "-",
+    "tags": [
+      "Managed"
+    ]
+  },
+  "assa_abloy_americas": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "assa_abloy_americas",
+    "launch_date": "07 / 2026",
+    "name": "Assa Abloy Americas",
+    "reports_resolved": "169",
+    "tags": [
+      "Managed"
+    ]
+  },
+  "bestbuy": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "bestbuy",
+    "launch_date": "03 / 2026",
+    "name": "Best Buy",
+    "reports_resolved": "133",
+    "tags": [
+      "Managed"
+    ]
+  },
+  "box_private": {
+    "bounty_avg": "$500",
+    "bounty_min": "$150",
+    "handle": "box_private",
+    "launch_date": "08 / 2026",
+    "name": "Box BB",
+    "reports_resolved": "208",
+    "tags": [
+      "Managed",
+      "Retesting",
+      "Collaboration"
+    ]
+  },
+  "clear_street_vdp": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "clear_street_vdp",
+    "launch_date": "03 / 2026",
+    "name": "Clear Street Disclosure Program",
+    "reports_resolved": "2",
+    "tags": [
+      "Managed"
+    ]
+  },
+  "cognition": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "cognition",
+    "launch_date": "05 / 2026",
+    "name": "Cognition",
+    "reports_resolved": "1",
+    "tags": [
+      "Managed"
+    ]
+  },
+  "coinmate": {
+    "bounty_avg": "$50",
+    "bounty_min": "$50",
+    "handle": "coinmate",
+    "launch_date": "04 / 2026",
+    "name": "CoinMate.io",
+    "reports_resolved": "71",
+    "tags": [
+      "Collaboration"
+    ]
+  },
+  "coupang_tw": {
+    "bounty_avg": "$287-$448",
+    "bounty_min": "$50",
+    "handle": "coupang_tw",
+    "launch_date": "05 / 2026",
+    "name": "Coupang Taiwan",
+    "reports_resolved": "5",
+    "tags": [
+      "Managed",
+      "Retesting",
+      "Collaboration"
+    ]
+  },
+  "discover-vdp": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "discover-vdp",
+    "launch_date": "07 / 2026",
+    "name": "Discover VDP",
+    "reports_resolved": "0",
+    "tags": [
+      "Managed"
+    ]
+  },
+  "epicgames-vdp": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "epicgames-vdp",
+    "launch_date": "06 / 2026",
+    "name": "Epic Games VDP",
+    "reports_resolved": "0",
+    "tags": [
+      "Managed"
+    ]
+  },
+  "getyourguide_vdp": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "getyourguide_vdp",
+    "launch_date": "03 / 2026",
+    "name": "GetYourGuide VDP",
+    "reports_resolved": "22",
+    "tags": []
+  },
+  "gogo_vdp": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "gogo_vdp",
+    "launch_date": "05 / 2026",
+    "name": "Gogo VDP",
+    "reports_resolved": "74",
+    "tags": []
+  },
+  "hexagon_vdp": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "hexagon_vdp",
+    "launch_date": "03 / 2026",
+    "name": "Hexagon-VDP",
+    "reports_resolved": "12",
+    "tags": [
+      "Managed"
+    ]
+  },
+  "luminor": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "luminor",
+    "launch_date": "03 / 2026",
+    "name": "Luminor",
+    "reports_resolved": "3",
+    "tags": []
+  },
+  "mcgrawhill": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "mcgrawhill",
+    "launch_date": "05 / 2026",
+    "name": "McGraw Hill",
+    "reports_resolved": "64",
+    "tags": [
+      "Managed"
+    ]
+  },
+  "omnicell": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "omnicell",
+    "launch_date": "07 / 2026",
+    "name": "Omnicell",
+    "reports_resolved": "5",
+    "tags": [
+      "Managed"
+    ]
+  },
+  "phonepe_vdp": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "phonepe_vdp",
+    "launch_date": "06 / 2026",
+    "name": "PhonePe",
+    "reports_resolved": "1",
+    "tags": []
+  },
+  "qinetiq": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "qinetiq",
+    "launch_date": "03 / 2026",
+    "name": "QinetiQ Response",
+    "reports_resolved": "30",
+    "tags": [
+      "Managed"
+    ]
+  },
+  "taxwell-vdp": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "taxwell-vdp",
+    "launch_date": "04 / 2026",
+    "name": "Taxwell VDP",
+    "reports_resolved": "14",
+    "tags": [
+      "Managed"
+    ]
+  },
+  "whatnot": {
+    "bounty_avg": "$500-$1k",
+    "bounty_min": "$50",
+    "handle": "whatnot",
+    "launch_date": "03 / 2026",
+    "name": "Whatnot",
+    "reports_resolved": "-",
+    "tags": [
+      "Managed",
+      "Retesting",
+      "Collaboration"
+    ]
+  },
+  "wolt": {
+    "bounty_avg": "$0-$500",
+    "bounty_min": "$100",
+    "handle": "wolt",
+    "launch_date": "07 / 2026",
+    "name": "Wolt",
+    "reports_resolved": "0",
+    "tags": [
+      "Managed",
+      "Retesting",
+      "Collaboration"
+    ]
+  }
+}
