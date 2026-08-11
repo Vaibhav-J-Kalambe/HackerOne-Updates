@@ -232,6 +232,17 @@
     "reports_resolved": "1",
     "tags": []
   },
+  "prism_vdp": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "prism_vdp",
+    "launch_date": "08 / 2026",
+    "name": "PRISM",
+    "reports_resolved": "126",
+    "tags": [
+      "Managed"
+    ]
+  },
   "qinetiq": {
     "bounty_avg": "-",
     "bounty_min": "-",
