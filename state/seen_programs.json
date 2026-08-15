@@ -25,7 +25,7 @@
     ]
   },
   "agoda-public": {
-    "bounty_avg": "$576",
+    "bounty_avg": "$576-$2k",
     "bounty_min": "$50",
     "handle": "agoda-public",
     "launch_date": "06 / 2026",
@@ -129,7 +129,7 @@
     ]
   },
   "coupang_tw": {
-    "bounty_avg": "$287-$448",
+    "bounty_avg": "$399-$448",
     "bounty_min": "$50",
     "handle": "coupang_tw",
     "launch_date": "05 / 2026",
