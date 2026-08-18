@@ -265,6 +265,18 @@
       "Managed"
     ]
   },
+  "vercel_sandbox": {
+    "bounty_avg": "-",
+    "bounty_min": "$50",
+    "handle": "vercel_sandbox",
+    "launch_date": "08 / 2026",
+    "name": "Vercel Sandbox",
+    "reports_resolved": "0",
+    "tags": [
+      "Retesting",
+      "Collaboration"
+    ]
+  },
   "whatnot": {
     "bounty_avg": "$500-$1k",
     "bounty_min": "$50",
