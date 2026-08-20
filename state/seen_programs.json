@@ -43,7 +43,7 @@
     "handle": "anthropic",
     "launch_date": "05 / 2026",
     "name": "Anthropic",
-    "reports_resolved": "410",
+    "reports_resolved": "412",
     "tags": [
       "Retesting",
       "Collaboration"
@@ -178,7 +178,7 @@
     "handle": "gogo_vdp",
     "launch_date": "05 / 2026",
     "name": "Gogo VDP",
-    "reports_resolved": "87",
+    "reports_resolved": "88",
     "tags": []
   },
   "hexagon_vdp": {
