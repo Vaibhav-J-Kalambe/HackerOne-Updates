@@ -291,7 +291,7 @@
     ]
   },
   "wolt": {
-    "bounty_avg": "$0-$500",
+    "bounty_avg": "$0-$100",
     "bounty_min": "$100",
     "handle": "wolt",
     "launch_date": "07 / 2026",
