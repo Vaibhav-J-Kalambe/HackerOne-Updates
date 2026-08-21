@@ -77,7 +77,7 @@
     "handle": "bestbuy",
     "launch_date": "03 / 2026",
     "name": "Best Buy",
-    "reports_resolved": "133",
+    "reports_resolved": "134",
     "tags": [
       "Managed"
     ]
@@ -178,7 +178,7 @@
     "handle": "gogo_vdp",
     "launch_date": "05 / 2026",
     "name": "Gogo VDP",
-    "reports_resolved": "88",
+    "reports_resolved": "89",
     "tags": []
   },
   "hexagon_vdp": {
