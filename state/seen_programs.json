@@ -163,6 +163,15 @@
       "Managed"
     ]
   },
+  "essity": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "essity",
+    "launch_date": "08 / 2026",
+    "name": "Essity",
+    "reports_resolved": "61",
+    "tags": []
+  },
   "getyourguide_vdp": {
     "bounty_avg": "-",
     "bounty_min": "-",
