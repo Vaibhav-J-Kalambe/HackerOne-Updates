@@ -274,6 +274,17 @@
       "Managed"
     ]
   },
+  "vanguard": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "vanguard",
+    "launch_date": "08 / 2026",
+    "name": "Vanguard",
+    "reports_resolved": "3",
+    "tags": [
+      "Managed"
+    ]
+  },
   "vercel_sandbox": {
     "bounty_avg": "-",
     "bounty_min": "$50",
