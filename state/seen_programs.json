@@ -17,7 +17,7 @@
     "handle": "abercrombie_fitch_bbp",
     "launch_date": "07 / 2026",
     "name": "Abercrombie & Fitch Bug Bounty",
-    "reports_resolved": "58",
+    "reports_resolved": "59",
     "tags": [
       "Managed",
       "Retesting",
@@ -88,7 +88,7 @@
     "handle": "box_private",
     "launch_date": "08 / 2026",
     "name": "Box BB",
-    "reports_resolved": "211",
+    "reports_resolved": "212",
     "tags": [
       "Managed",
       "Retesting",
