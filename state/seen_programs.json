@@ -43,7 +43,7 @@
     "handle": "anthropic",
     "launch_date": "05 / 2026",
     "name": "Anthropic",
-    "reports_resolved": "414",
+    "reports_resolved": "415",
     "tags": [
       "Retesting",
       "Collaboration"
@@ -227,7 +227,7 @@
     "handle": "omnicell",
     "launch_date": "07 / 2026",
     "name": "Omnicell",
-    "reports_resolved": "8",
+    "reports_resolved": "9",
     "tags": [
       "Managed"
     ]
