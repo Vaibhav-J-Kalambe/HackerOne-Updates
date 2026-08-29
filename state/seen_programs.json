@@ -38,12 +38,12 @@
     ]
   },
   "anthropic": {
-    "bounty_avg": "$750-$1k",
+    "bounty_avg": "$725-$1k",
     "bounty_min": "$50",
     "handle": "anthropic",
     "launch_date": "05 / 2026",
     "name": "Anthropic",
-    "reports_resolved": "427",
+    "reports_resolved": "428",
     "tags": [
       "Retesting",
       "Collaboration"
