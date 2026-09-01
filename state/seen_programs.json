@@ -43,7 +43,7 @@
     "handle": "anthropic",
     "launch_date": "05 / 2026",
     "name": "Anthropic",
-    "reports_resolved": "428",
+    "reports_resolved": "434",
     "tags": [
       "Retesting",
       "Collaboration"
@@ -187,7 +187,7 @@
     "handle": "gogo_vdp",
     "launch_date": "05 / 2026",
     "name": "Gogo VDP",
-    "reports_resolved": "89",
+    "reports_resolved": "90",
     "tags": []
   },
   "hexagon_vdp": {
@@ -216,7 +216,7 @@
     "handle": "mcgrawhill",
     "launch_date": "05 / 2026",
     "name": "McGraw Hill",
-    "reports_resolved": "79",
+    "reports_resolved": "80",
     "tags": [
       "Managed"
     ]
@@ -227,7 +227,7 @@
     "handle": "omnicell",
     "launch_date": "07 / 2026",
     "name": "Omnicell",
-    "reports_resolved": "9",
+    "reports_resolved": "10",
     "tags": [
       "Managed"
     ]
