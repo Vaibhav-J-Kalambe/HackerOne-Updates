@@ -43,7 +43,7 @@
     "handle": "anthropic",
     "launch_date": "05 / 2026",
     "name": "Anthropic",
-    "reports_resolved": "437",
+    "reports_resolved": "438",
     "tags": [
       "Retesting",
       "Collaboration"
@@ -259,6 +259,17 @@
     "launch_date": "03 / 2026",
     "name": "QinetiQ Response",
     "reports_resolved": "30",
+    "tags": [
+      "Managed"
+    ]
+  },
+  "semtech": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "semtech",
+    "launch_date": "09 / 2026",
+    "name": "Semtech",
+    "reports_resolved": "91",
     "tags": [
       "Managed"
     ]
