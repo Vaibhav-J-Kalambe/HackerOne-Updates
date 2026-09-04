@@ -5,7 +5,7 @@
     "handle": "1win_com",
     "launch_date": "04 / 2026",
     "name": "1win",
-    "reports_resolved": "13",
+    "reports_resolved": "15",
     "tags": [
       "Retesting",
       "Collaboration"
@@ -43,7 +43,7 @@
     "handle": "anthropic",
     "launch_date": "05 / 2026",
     "name": "Anthropic",
-    "reports_resolved": "438",
+    "reports_resolved": "440",
     "tags": [
       "Retesting",
       "Collaboration"
@@ -134,7 +134,7 @@
     "handle": "coupang_tw",
     "launch_date": "05 / 2026",
     "name": "Coupang Taiwan",
-    "reports_resolved": "5",
+    "reports_resolved": "18",
     "tags": [
       "Managed",
       "Retesting",
@@ -169,7 +169,7 @@
     "handle": "essity",
     "launch_date": "08 / 2026",
     "name": "Essity",
-    "reports_resolved": "62",
+    "reports_resolved": "63",
     "tags": []
   },
   "getyourguide_vdp": {
