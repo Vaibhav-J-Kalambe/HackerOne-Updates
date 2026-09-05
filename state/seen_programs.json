@@ -1,6 +1,6 @@
 {
   "1win_com": {
-    "bounty_avg": "$225-$300",
+    "bounty_avg": "$200-$300",
     "bounty_min": "$50",
     "handle": "1win_com",
     "launch_date": "04 / 2026",
@@ -43,7 +43,7 @@
     "handle": "anthropic",
     "launch_date": "05 / 2026",
     "name": "Anthropic",
-    "reports_resolved": "440",
+    "reports_resolved": "441",
     "tags": [
       "Retesting",
       "Collaboration"
@@ -129,7 +129,7 @@
     ]
   },
   "coupang_tw": {
-    "bounty_avg": "$399-$448",
+    "bounty_avg": "$349-$434",
     "bounty_min": "$50",
     "handle": "coupang_tw",
     "launch_date": "05 / 2026",
