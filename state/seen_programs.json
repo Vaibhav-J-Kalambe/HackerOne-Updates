@@ -169,7 +169,7 @@
     "handle": "essity",
     "launch_date": "08 / 2026",
     "name": "Essity",
-    "reports_resolved": "64",
+    "reports_resolved": "65",
     "tags": []
   },
   "getyourguide_vdp": {
@@ -216,7 +216,7 @@
     "handle": "mcgrawhill",
     "launch_date": "05 / 2026",
     "name": "McGraw Hill",
-    "reports_resolved": "82",
+    "reports_resolved": "83",
     "tags": [
       "Managed"
     ]
