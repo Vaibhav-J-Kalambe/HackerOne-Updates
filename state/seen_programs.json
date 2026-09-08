@@ -147,7 +147,7 @@
     "handle": "discover-vdp",
     "launch_date": "07 / 2026",
     "name": "Discover VDP",
-    "reports_resolved": "0",
+    "reports_resolved": "1",
     "tags": [
       "Managed"
     ]
@@ -227,7 +227,7 @@
     "handle": "omnicell",
     "launch_date": "07 / 2026",
     "name": "Omnicell",
-    "reports_resolved": "10",
+    "reports_resolved": "12",
     "tags": [
       "Managed"
     ]
