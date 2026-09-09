@@ -43,7 +43,7 @@
     "handle": "anthropic",
     "launch_date": "05 / 2026",
     "name": "Anthropic",
-    "reports_resolved": "447",
+    "reports_resolved": "448",
     "tags": [
       "Retesting",
       "Collaboration"
@@ -169,7 +169,7 @@
     "handle": "essity",
     "launch_date": "08 / 2026",
     "name": "Essity",
-    "reports_resolved": "65",
+    "reports_resolved": "67",
     "tags": []
   },
   "getyourguide_vdp": {
@@ -247,7 +247,7 @@
     "handle": "prism_vdp",
     "launch_date": "08 / 2026",
     "name": "PRISM",
-    "reports_resolved": "178",
+    "reports_resolved": "184",
     "tags": [
       "Managed"
     ]
