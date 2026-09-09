@@ -43,7 +43,7 @@
     "handle": "anthropic",
     "launch_date": "05 / 2026",
     "name": "Anthropic",
-    "reports_resolved": "448",
+    "reports_resolved": "449",
     "tags": [
       "Retesting",
       "Collaboration"
@@ -269,7 +269,7 @@
     "handle": "semtech",
     "launch_date": "09 / 2026",
     "name": "Semtech",
-    "reports_resolved": "93",
+    "reports_resolved": "94",
     "tags": [
       "Managed"
     ]
