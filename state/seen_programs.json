@@ -178,7 +178,7 @@
     "handle": "getyourguide_vdp",
     "launch_date": "03 / 2026",
     "name": "GetYourGuide VDP",
-    "reports_resolved": "24",
+    "reports_resolved": "26",
     "tags": []
   },
   "gogo_vdp": {
@@ -247,7 +247,7 @@
     "handle": "prism_vdp",
     "launch_date": "08 / 2026",
     "name": "PRISM",
-    "reports_resolved": "184",
+    "reports_resolved": "185",
     "tags": [
       "Managed"
     ]
