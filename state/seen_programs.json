@@ -17,7 +17,7 @@
     "handle": "abercrombie_fitch_bbp",
     "launch_date": "07 / 2026",
     "name": "Abercrombie & Fitch Bug Bounty",
-    "reports_resolved": "59",
+    "reports_resolved": "60",
     "tags": [
       "Managed",
       "Retesting",
@@ -169,7 +169,7 @@
     "handle": "essity",
     "launch_date": "08 / 2026",
     "name": "Essity",
-    "reports_resolved": "67",
+    "reports_resolved": "70",
     "tags": []
   },
   "getyourguide_vdp": {
@@ -291,7 +291,7 @@
     "handle": "vanguard",
     "launch_date": "08 / 2026",
     "name": "Vanguard",
-    "reports_resolved": "3",
+    "reports_resolved": "4",
     "tags": [
       "Managed"
     ]
