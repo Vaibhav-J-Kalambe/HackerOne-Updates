@@ -17,7 +17,7 @@
     "handle": "abercrombie_fitch_bbp",
     "launch_date": "07 / 2026",
     "name": "Abercrombie & Fitch Bug Bounty",
-    "reports_resolved": "60",
+    "reports_resolved": "62",
     "tags": [
       "Managed",
       "Retesting",
@@ -216,7 +216,7 @@
     "handle": "mcgrawhill",
     "launch_date": "05 / 2026",
     "name": "McGraw Hill",
-    "reports_resolved": "83",
+    "reports_resolved": "85",
     "tags": [
       "Managed"
     ]
