@@ -169,7 +169,7 @@
     "handle": "essity",
     "launch_date": "08 / 2026",
     "name": "Essity",
-    "reports_resolved": "71",
+    "reports_resolved": "72",
     "tags": []
   },
   "getyourguide_vdp": {
@@ -247,7 +247,7 @@
     "handle": "prism_vdp",
     "launch_date": "08 / 2026",
     "name": "PRISM",
-    "reports_resolved": "185",
+    "reports_resolved": "192",
     "tags": [
       "Managed"
     ]
