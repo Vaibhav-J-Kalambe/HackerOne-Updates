@@ -88,7 +88,7 @@
     "handle": "box_private",
     "launch_date": "08 / 2026",
     "name": "Box BB",
-    "reports_resolved": "215",
+    "reports_resolved": "216",
     "tags": [
       "Managed",
       "Retesting",
@@ -216,7 +216,7 @@
     "handle": "mcgrawhill",
     "launch_date": "05 / 2026",
     "name": "McGraw Hill",
-    "reports_resolved": "85",
+    "reports_resolved": "83",
     "tags": [
       "Managed"
     ]
