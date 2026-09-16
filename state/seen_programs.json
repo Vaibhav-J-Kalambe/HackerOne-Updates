@@ -141,6 +141,19 @@
       "Collaboration"
     ]
   },
+  "common_codes": {
+    "bounty_avg": "-",
+    "bounty_min": "$50",
+    "handle": "common_codes",
+    "launch_date": "09 / 2026",
+    "name": "d-you App & German EUDI Wallet Ecosystem",
+    "reports_resolved": "0",
+    "tags": [
+      "Managed",
+      "Retesting",
+      "Collaboration"
+    ]
+  },
   "coupang_tw": {
     "bounty_avg": "$399-$448",
     "bounty_min": "$50",
@@ -182,7 +195,7 @@
     "handle": "essity",
     "launch_date": "08 / 2026",
     "name": "Essity",
-    "reports_resolved": "72",
+    "reports_resolved": "74",
     "tags": []
   },
   "getyourguide_vdp": {
