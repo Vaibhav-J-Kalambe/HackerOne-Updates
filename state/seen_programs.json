@@ -65,7 +65,7 @@
     "bounty_min": "$100",
     "handle": "arc-bbp",
     "launch_date": "09 / 2026",
-    "name": "Arc BBP",
+    "name": "Arc",
     "reports_resolved": "0",
     "tags": [
       "Managed",
@@ -101,7 +101,7 @@
     "handle": "box_private",
     "launch_date": "08 / 2026",
     "name": "Box BB",
-    "reports_resolved": "216",
+    "reports_resolved": "217",
     "tags": [
       "Managed",
       "Retesting",
@@ -143,7 +143,7 @@
   },
   "common_codes": {
     "bounty_avg": "-",
-    "bounty_min": "$50",
+    "bounty_min": "$100",
     "handle": "common_codes",
     "launch_date": "09 / 2026",
     "name": "d-you App & German EUDI Wallet Ecosystem",
@@ -213,7 +213,7 @@
     "handle": "gogo_vdp",
     "launch_date": "05 / 2026",
     "name": "Gogo VDP",
-    "reports_resolved": "94",
+    "reports_resolved": "97",
     "tags": []
   },
   "hexagon_vdp": {
@@ -253,7 +253,7 @@
     "handle": "omnicell",
     "launch_date": "07 / 2026",
     "name": "Omnicell",
-    "reports_resolved": "14",
+    "reports_resolved": "16",
     "tags": [
       "Managed"
     ]
