@@ -60,6 +60,19 @@
       "Managed"
     ]
   },
+  "arc-bbp": {
+    "bounty_avg": "-",
+    "bounty_min": "$100",
+    "handle": "arc-bbp",
+    "launch_date": "09 / 2026",
+    "name": "Arc BBP",
+    "reports_resolved": "0",
+    "tags": [
+      "Managed",
+      "Retesting",
+      "Collaboration"
+    ]
+  },
   "assa_abloy_americas": {
     "bounty_avg": "-",
     "bounty_min": "-",
