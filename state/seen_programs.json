@@ -17,7 +17,7 @@
     "handle": "abercrombie_fitch_bbp",
     "launch_date": "07 / 2026",
     "name": "Abercrombie & Fitch Bug Bounty",
-    "reports_resolved": "62",
+    "reports_resolved": "63",
     "tags": [
       "Managed",
       "Retesting",
@@ -101,7 +101,7 @@
     "handle": "box_private",
     "launch_date": "08 / 2026",
     "name": "Box BB",
-    "reports_resolved": "217",
+    "reports_resolved": "218",
     "tags": [
       "Managed",
       "Retesting",
@@ -195,7 +195,7 @@
     "handle": "essity",
     "launch_date": "08 / 2026",
     "name": "Essity",
-    "reports_resolved": "74",
+    "reports_resolved": "75",
     "tags": []
   },
   "getyourguide_vdp": {
@@ -242,7 +242,7 @@
     "handle": "mcgrawhill",
     "launch_date": "05 / 2026",
     "name": "McGraw Hill",
-    "reports_resolved": "85",
+    "reports_resolved": "86",
     "tags": [
       "Managed"
     ]
@@ -295,7 +295,7 @@
     "handle": "semtech",
     "launch_date": "09 / 2026",
     "name": "Semtech",
-    "reports_resolved": "95",
+    "reports_resolved": "96",
     "tags": [
       "Managed"
     ]
