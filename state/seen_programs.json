@@ -43,7 +43,7 @@
     "handle": "anthropic",
     "launch_date": "05 / 2026",
     "name": "Anthropic",
-    "reports_resolved": "457",
+    "reports_resolved": "458",
     "tags": [
       "Retesting",
       "Collaboration"
@@ -195,7 +195,7 @@
     "handle": "essity",
     "launch_date": "08 / 2026",
     "name": "Essity",
-    "reports_resolved": "75",
+    "reports_resolved": "77",
     "tags": []
   },
   "getyourguide_vdp": {
@@ -320,6 +320,19 @@
     "reports_resolved": "4",
     "tags": [
       "Managed"
+    ]
+  },
+  "vercel": {
+    "bounty_avg": "$1k-$1k",
+    "bounty_min": "$50",
+    "handle": "vercel",
+    "launch_date": "09 / 2026",
+    "name": "Vercel",
+    "reports_resolved": "317",
+    "tags": [
+      "Managed",
+      "Retesting",
+      "Collaboration"
     ]
   },
   "vercel_sandbox": {
