@@ -43,7 +43,7 @@
     "handle": "anthropic",
     "launch_date": "05 / 2026",
     "name": "Anthropic",
-    "reports_resolved": "458",
+    "reports_resolved": "459",
     "tags": [
       "Retesting",
       "Collaboration"
@@ -101,7 +101,7 @@
     "handle": "box_private",
     "launch_date": "08 / 2026",
     "name": "Box BB",
-    "reports_resolved": "218",
+    "reports_resolved": "219",
     "tags": [
       "Managed",
       "Retesting",
