@@ -17,7 +17,7 @@
     "handle": "abercrombie_fitch_bbp",
     "launch_date": "07 / 2026",
     "name": "Abercrombie & Fitch Bug Bounty",
-    "reports_resolved": "63",
+    "reports_resolved": "64",
     "tags": [
       "Managed",
       "Retesting",
@@ -101,7 +101,7 @@
     "handle": "box_private",
     "launch_date": "08 / 2026",
     "name": "Box BB",
-    "reports_resolved": "219",
+    "reports_resolved": "222",
     "tags": [
       "Managed",
       "Retesting",
@@ -253,7 +253,7 @@
     "handle": "omnicell",
     "launch_date": "07 / 2026",
     "name": "Omnicell",
-    "reports_resolved": "16",
+    "reports_resolved": "17",
     "tags": [
       "Managed"
     ]
