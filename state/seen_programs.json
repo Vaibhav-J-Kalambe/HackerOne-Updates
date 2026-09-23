@@ -43,7 +43,7 @@
     "handle": "anthropic",
     "launch_date": "05 / 2026",
     "name": "Anthropic",
-    "reports_resolved": "459",
+    "reports_resolved": "460",
     "tags": [
       "Retesting",
       "Collaboration"
@@ -195,7 +195,7 @@
     "handle": "essity",
     "launch_date": "08 / 2026",
     "name": "Essity",
-    "reports_resolved": "77",
+    "reports_resolved": "79",
     "tags": []
   },
   "getyourguide_vdp": {
@@ -243,6 +243,17 @@
     "launch_date": "05 / 2026",
     "name": "McGraw Hill",
     "reports_resolved": "87",
+    "tags": [
+      "Managed"
+    ]
+  },
+  "nebius_ai_vdp": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "nebius_ai_vdp",
+    "launch_date": "09 / 2026",
+    "name": "Nebius AI Vulnerability Disclosure",
+    "reports_resolved": "0",
     "tags": [
       "Managed"
     ]
