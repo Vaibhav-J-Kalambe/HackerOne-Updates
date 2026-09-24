@@ -130,6 +130,15 @@
       "Managed"
     ]
   },
+  "coindcx_vdp": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "coindcx_vdp",
+    "launch_date": "09 / 2026",
+    "name": "CoinDCX Vulnerability Disclosure",
+    "reports_resolved": "213",
+    "tags": []
+  },
   "coinmate": {
     "bounty_avg": "$50",
     "bounty_min": "$50",
@@ -225,6 +234,17 @@
     "reports_resolved": "12",
     "tags": [
       "Managed"
+    ]
+  },
+  "kaltura": {
+    "bounty_avg": "$250",
+    "bounty_min": "$50",
+    "handle": "kaltura",
+    "launch_date": "09 / 2026",
+    "name": "Kaltura",
+    "reports_resolved": "13",
+    "tags": [
+      "Retesting"
     ]
   },
   "luminor": {
