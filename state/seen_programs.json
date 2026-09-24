@@ -247,6 +247,19 @@
       "Retesting"
     ]
   },
+  "live_nation": {
+    "bounty_avg": "$500-$2k",
+    "bounty_min": "$50",
+    "handle": "live_nation",
+    "launch_date": "09 / 2026",
+    "name": "Live Nation",
+    "reports_resolved": "52",
+    "tags": [
+      "Managed",
+      "Retesting",
+      "Collaboration"
+    ]
+  },
   "luminor": {
     "bounty_avg": "-",
     "bounty_min": "-",
