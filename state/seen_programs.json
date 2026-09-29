@@ -43,7 +43,7 @@
     "handle": "anthropic",
     "launch_date": "05 / 2026",
     "name": "Anthropic",
-    "reports_resolved": "468",
+    "reports_resolved": "470",
     "tags": [
       "Retesting",
       "Collaboration"
@@ -253,7 +253,7 @@
     "handle": "live_nation",
     "launch_date": "09 / 2026",
     "name": "Live Nation",
-    "reports_resolved": "52",
+    "reports_resolved": "53",
     "tags": [
       "Managed",
       "Retesting",
