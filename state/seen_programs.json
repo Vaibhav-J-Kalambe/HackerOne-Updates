@@ -253,7 +253,7 @@
     "handle": "live_nation",
     "launch_date": "09 / 2026",
     "name": "Live Nation",
-    "reports_resolved": "59",
+    "reports_resolved": "60",
     "tags": [
       "Managed",
       "Retesting",
@@ -289,6 +289,18 @@
     "reports_resolved": "0",
     "tags": [
       "Managed"
+    ]
+  },
+  "omarchy": {
+    "bounty_avg": "-",
+    "bounty_min": "$50",
+    "handle": "omarchy",
+    "launch_date": "10 / 2026",
+    "name": "Omarchy",
+    "reports_resolved": "0",
+    "tags": [
+      "Retesting",
+      "Collaboration"
     ]
   },
   "omnicell": {
@@ -372,7 +384,7 @@
     "handle": "vercel",
     "launch_date": "09 / 2026",
     "name": "Vercel",
-    "reports_resolved": "321",
+    "reports_resolved": "322",
     "tags": [
       "Managed",
       "Retesting",
