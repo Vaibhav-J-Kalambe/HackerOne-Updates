@@ -17,7 +17,7 @@
     "handle": "abercrombie_fitch_bbp",
     "launch_date": "07 / 2026",
     "name": "Abercrombie & Fitch Bug Bounty",
-    "reports_resolved": "64",
+    "reports_resolved": "65",
     "tags": [
       "Managed",
       "Retesting",
@@ -43,7 +43,7 @@
     "handle": "anthropic",
     "launch_date": "05 / 2026",
     "name": "Anthropic",
-    "reports_resolved": "474",
+    "reports_resolved": "475",
     "tags": [
       "Retesting",
       "Collaboration"
