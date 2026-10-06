@@ -43,7 +43,7 @@
     "handle": "anthropic",
     "launch_date": "05 / 2026",
     "name": "Anthropic",
-    "reports_resolved": "475",
+    "reports_resolved": "477",
     "tags": [
       "Retesting",
       "Collaboration"
@@ -275,7 +275,7 @@
     "handle": "mcgrawhill",
     "launch_date": "05 / 2026",
     "name": "McGraw Hill",
-    "reports_resolved": "91",
+    "reports_resolved": "92",
     "tags": [
       "Managed"
     ]
