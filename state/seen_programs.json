@@ -264,7 +264,7 @@
     "handle": "live_nation",
     "launch_date": "09 / 2026",
     "name": "Live Nation",
-    "reports_resolved": "69",
+    "reports_resolved": "71",
     "tags": [
       "Managed",
       "Retesting",
@@ -412,6 +412,17 @@
     "tags": [
       "Retesting",
       "Collaboration"
+    ]
+  },
+  "verisk_vdp": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "verisk_vdp",
+    "launch_date": "10 / 2026",
+    "name": "Verisk VDP",
+    "reports_resolved": "0",
+    "tags": [
+      "Managed"
     ]
   },
   "whatnot": {
