@@ -24,6 +24,17 @@
       "Collaboration"
     ]
   },
+  "aegean_airlines_vdp": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "aegean_airlines_vdp",
+    "launch_date": "10 / 2026",
+    "name": "Aegean Airlines Vulnerability Disclosure",
+    "reports_resolved": "2",
+    "tags": [
+      "Managed"
+    ]
+  },
   "agoda-public": {
     "bounty_avg": "$576-$2k",
     "bounty_min": "$50",
@@ -204,7 +215,7 @@
     "handle": "essity",
     "launch_date": "08 / 2026",
     "name": "Essity",
-    "reports_resolved": "80",
+    "reports_resolved": "81",
     "tags": []
   },
   "getyourguide_vdp": {
@@ -253,7 +264,7 @@
     "handle": "live_nation",
     "launch_date": "09 / 2026",
     "name": "Live Nation",
-    "reports_resolved": "68",
+    "reports_resolved": "69",
     "tags": [
       "Managed",
       "Retesting",
@@ -329,7 +340,7 @@
     "handle": "prism_vdp",
     "launch_date": "08 / 2026",
     "name": "PRISM",
-    "reports_resolved": "195",
+    "reports_resolved": "197",
     "tags": [
       "Managed"
     ]
