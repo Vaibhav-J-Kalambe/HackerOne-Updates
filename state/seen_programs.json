@@ -320,7 +320,7 @@
     "handle": "omnicell",
     "launch_date": "07 / 2026",
     "name": "Omnicell",
-    "reports_resolved": "21",
+    "reports_resolved": "23",
     "tags": [
       "Managed"
     ]
@@ -384,7 +384,7 @@
     "handle": "vanguard",
     "launch_date": "08 / 2026",
     "name": "Vanguard",
-    "reports_resolved": "4",
+    "reports_resolved": "5",
     "tags": [
       "Managed"
     ]
