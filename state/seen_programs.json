@@ -264,7 +264,7 @@
     "handle": "live_nation",
     "launch_date": "09 / 2026",
     "name": "Live Nation",
-    "reports_resolved": "73",
+    "reports_resolved": "74",
     "tags": [
       "Managed",
       "Retesting",
@@ -395,7 +395,7 @@
     "handle": "vercel",
     "launch_date": "09 / 2026",
     "name": "Vercel",
-    "reports_resolved": "322",
+    "reports_resolved": "323",
     "tags": [
       "Managed",
       "Retesting",
