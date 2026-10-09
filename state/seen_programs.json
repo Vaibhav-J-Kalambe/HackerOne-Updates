@@ -72,7 +72,7 @@
     ]
   },
   "arc-bbp": {
-    "bounty_avg": "$0-$500",
+    "bounty_avg": "$50",
     "bounty_min": "$100",
     "handle": "arc-bbp",
     "launch_date": "09 / 2026",
@@ -162,7 +162,7 @@
     ]
   },
   "common_codes": {
-    "bounty_avg": "-",
+    "bounty_avg": "$3k-$4k",
     "bounty_min": "$100",
     "handle": "common_codes",
     "launch_date": "09 / 2026",
