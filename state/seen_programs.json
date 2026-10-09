@@ -215,7 +215,7 @@
     "handle": "essity",
     "launch_date": "08 / 2026",
     "name": "Essity",
-    "reports_resolved": "81",
+    "reports_resolved": "82",
     "tags": []
   },
   "getyourguide_vdp": {
@@ -264,7 +264,7 @@
     "handle": "live_nation",
     "launch_date": "09 / 2026",
     "name": "Live Nation",
-    "reports_resolved": "71",
+    "reports_resolved": "73",
     "tags": [
       "Managed",
       "Retesting",
