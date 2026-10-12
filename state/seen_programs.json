@@ -30,7 +30,7 @@
     "handle": "aegean_airlines_vdp",
     "launch_date": "10 / 2026",
     "name": "Aegean Airlines Vulnerability Disclosure",
-    "reports_resolved": "2",
+    "reports_resolved": "3",
     "tags": [
       "Managed"
     ]
@@ -215,7 +215,7 @@
     "handle": "essity",
     "launch_date": "08 / 2026",
     "name": "Essity",
-    "reports_resolved": "82",
+    "reports_resolved": "83",
     "tags": []
   },
   "getyourguide_vdp": {
@@ -264,7 +264,7 @@
     "handle": "live_nation",
     "launch_date": "09 / 2026",
     "name": "Live Nation",
-    "reports_resolved": "74",
+    "reports_resolved": "75",
     "tags": [
       "Managed",
       "Retesting",
@@ -362,7 +362,7 @@
     "handle": "semtech",
     "launch_date": "09 / 2026",
     "name": "Semtech",
-    "reports_resolved": "97",
+    "reports_resolved": "101",
     "tags": [
       "Managed"
     ]
