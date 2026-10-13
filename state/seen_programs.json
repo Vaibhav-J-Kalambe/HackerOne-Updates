@@ -77,7 +77,7 @@
     "handle": "arc-bbp",
     "launch_date": "09 / 2026",
     "name": "Arc",
-    "reports_resolved": "2",
+    "reports_resolved": "3",
     "tags": [
       "Managed",
       "Retesting",
@@ -193,7 +193,7 @@
     "handle": "discover-vdp",
     "launch_date": "07 / 2026",
     "name": "Discover VDP",
-    "reports_resolved": "2",
+    "reports_resolved": "3",
     "tags": [
       "Managed"
     ]
@@ -264,7 +264,7 @@
     "handle": "live_nation",
     "launch_date": "09 / 2026",
     "name": "Live Nation",
-    "reports_resolved": "75",
+    "reports_resolved": "76",
     "tags": [
       "Managed",
       "Retesting",
@@ -444,7 +444,7 @@
     "handle": "wolt",
     "launch_date": "07 / 2026",
     "name": "Wolt",
-    "reports_resolved": "0",
+    "reports_resolved": "1",
     "tags": [
       "Managed",
       "Retesting",
