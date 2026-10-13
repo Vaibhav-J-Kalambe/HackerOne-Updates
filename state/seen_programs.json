@@ -264,7 +264,7 @@
     "handle": "live_nation",
     "launch_date": "09 / 2026",
     "name": "Live Nation",
-    "reports_resolved": "76",
+    "reports_resolved": "77",
     "tags": [
       "Managed",
       "Retesting",
@@ -320,7 +320,7 @@
     "handle": "omnicell",
     "launch_date": "07 / 2026",
     "name": "Omnicell",
-    "reports_resolved": "23",
+    "reports_resolved": "24",
     "tags": [
       "Managed"
     ]
