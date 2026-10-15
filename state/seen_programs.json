@@ -264,7 +264,7 @@
     "handle": "live_nation",
     "launch_date": "09 / 2026",
     "name": "Live Nation",
-    "reports_resolved": "85",
+    "reports_resolved": "86",
     "tags": [
       "Managed",
       "Retesting",
@@ -362,7 +362,7 @@
     "handle": "semtech",
     "launch_date": "09 / 2026",
     "name": "Semtech",
-    "reports_resolved": "101",
+    "reports_resolved": "102",
     "tags": [
       "Managed"
     ]
