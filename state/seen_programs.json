@@ -362,7 +362,7 @@
     "handle": "semtech",
     "launch_date": "09 / 2026",
     "name": "Semtech",
-    "reports_resolved": "102",
+    "reports_resolved": "103",
     "tags": [
       "Managed"
     ]
@@ -395,7 +395,7 @@
     "handle": "vercel",
     "launch_date": "09 / 2026",
     "name": "Vercel",
-    "reports_resolved": "325",
+    "reports_resolved": "326",
     "tags": [
       "Managed",
       "Retesting",
