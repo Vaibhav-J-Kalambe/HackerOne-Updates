@@ -112,7 +112,7 @@
     "handle": "box_private",
     "launch_date": "08 / 2026",
     "name": "Box BB",
-    "reports_resolved": "229",
+    "reports_resolved": "230",
     "tags": [
       "Managed",
       "Retesting",
@@ -264,7 +264,7 @@
     "handle": "live_nation",
     "launch_date": "09 / 2026",
     "name": "Live Nation",
-    "reports_resolved": "90",
+    "reports_resolved": "92",
     "tags": [
       "Managed",
       "Retesting",
@@ -362,7 +362,7 @@
     "handle": "semtech",
     "launch_date": "09 / 2026",
     "name": "Semtech",
-    "reports_resolved": "103",
+    "reports_resolved": "104",
     "tags": [
       "Managed"
     ]
