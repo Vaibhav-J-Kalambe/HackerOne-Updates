@@ -112,7 +112,7 @@
     "handle": "box_private",
     "launch_date": "08 / 2026",
     "name": "Box BB",
-    "reports_resolved": "251",
+    "reports_resolved": "253",
     "tags": [
       "Managed",
       "Retesting",
@@ -264,7 +264,7 @@
     "handle": "live_nation",
     "launch_date": "09 / 2026",
     "name": "Live Nation",
-    "reports_resolved": "101",
+    "reports_resolved": "103",
     "tags": [
       "Managed",
       "Retesting",
@@ -449,6 +449,17 @@
       "Managed",
       "Retesting",
       "Collaboration"
+    ]
+  },
+  "xp_inc_vdp": {
+    "bounty_avg": "-",
+    "bounty_min": "-",
+    "handle": "xp_inc_vdp",
+    "launch_date": "10 / 2026",
+    "name": "XP Inc Vulnerability Disclosure",
+    "reports_resolved": "0",
+    "tags": [
+      "Managed"
     ]
   }
 }
